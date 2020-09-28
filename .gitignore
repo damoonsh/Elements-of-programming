@@ -7,4 +7,4 @@
 # Unignore all dirs
 !*/
 
-./ch5/__pycache__/
+/ch5/__pycache__/
